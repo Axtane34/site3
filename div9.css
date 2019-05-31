@@ -1,15 +1,15 @@
 #div8_5{
 
 position:inherit;
-top:228vw;
+top:230.5vw;
 left:0;
 right:0;
 margin:auto;
 		
 		width:100%;
-		height:50vw;
+		height:52vw;
 		z-index:800;
-		background-color:#fffff7;
+		background-color:#fffbff; 
 		 
 
   }
@@ -19,7 +19,7 @@ margin:auto;
 #div9{
 
 position:inherit;
-top:231vw;
+top:237.5vw;
 left:0;
 right:0;
 margin:auto;
@@ -58,7 +58,7 @@ margin:auto;
 /* Блок с точками */
 .owl-pagination {
 	position:absolute;
-	top: 35vw;
+	top: 36vw;
 	width:100%;
 	
 	text-align: center; /* Выравниваем точки по-середине */
@@ -107,5 +107,26 @@ margin:auto;
 }
 .pic6{
 	background-image:url(img/div1.png);
+	
+}
+
+#js-prev{
+	
+	height:5vw;
+	position:absolute;
+	top:21vw;
+	left:8vw;
+	z-index:100;
+
+}
+
+#js-next{
+	
+		height:5vw;
+	position:absolute;
+	top:21vw;
+	right: 8vw;
+	z-index:100;
+
 	
 }
