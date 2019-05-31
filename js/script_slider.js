@@ -12,7 +12,7 @@
 
 	// Запускаем перемотку влево
 	carousel.trigger('owl.prev');
-
+    
 	return false;
 });
 

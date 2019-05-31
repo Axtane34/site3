@@ -80,7 +80,7 @@ margin:auto;
 }
 
 .pic_all{
-cursor:pointer;
+
 		background-size:100% 100%;
 		z-index:2;
 		background-repeat:no-repeat;
@@ -90,23 +90,23 @@ cursor:pointer;
 		
 }
 .pic2{
-	background-image:url(img/div9.png);
+	background-image:url(img/div9_1.png);
 		
 }
 .pic3{
-	background-image:url(img/div1.png);
+	background-image:url(img/div9.png);
 		
 }
 .pic4{
-	background-image:url(img/div1.png);
+	background-image:url(img/div9_1.png);
 	
 }
 .pic5{
-	background-image:url(img/div1.png);
+	background-image:url(img/div9.png);
 	
 }
 .pic6{
-	background-image:url(img/div1.png);
+	background-image:url(img/div9_1.png);
 	
 }
 
