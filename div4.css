@@ -199,5 +199,13 @@ height: auto;
 	transition: opacity .5s, top .5s;
 	border-radius: 11px;
 }
+#div4_text0,#div4_text2,#div4_text3,#div4_text4,#div4_text5,#div4_text6{
+	text-align:left;
+	left:3.5vw;
+	font-size:2.5vw;
+	position:absolute;
+	top:5.5vw;
+	
+}
 
 
