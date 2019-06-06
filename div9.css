@@ -19,7 +19,7 @@ margin:auto;
 #div9{
 
 position:inherit;
-top:232.5vw;
+top:235.5vw;
 left:0;
 right:0;
 margin:auto;
@@ -58,8 +58,9 @@ margin:auto;
 /* Блок с точками */
 .owl-pagination {
 	position:absolute;
-	top: 40.5vw;
+	top: 41vw;
 	width:100%;
+
 	
 	text-align: center; /* Выравниваем точки по-середине */
 	
@@ -117,7 +118,7 @@ margin:auto;
 	
 	height:5vw;
 	position:absolute;
-	top:20vw;
+	top:23vw;
 	left:8vw;
 	z-index:100;
 
@@ -127,7 +128,7 @@ margin:auto;
 	
 		height:5vw;
 	position:absolute;
-	top:20vw;
+	top:23vw;
 	right: 8vw;
 	z-index:100;
 
