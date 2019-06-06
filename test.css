@@ -51,6 +51,17 @@ position:absolute;
 	line-height: 2.4vw;
 	left:0px;
 }
+
+.write_me{
+	position:absolute;
+	top:20.9vw;
+	line-height: 1.5vw;
+	left:55vw;
+	width:13.5vw;
+	font-size:1.5vw;
+
+	text-align:left;
+}
 .def{
 
 
@@ -144,10 +155,10 @@ right:42vw;
 width: 4.2vw;
 	height: 4vw;
 	color:#202020;
-	border: 1px solid #202020;
-	border-radius:1.5vw;
+	
+	border-radius:1.1vw;
 	background:none;
-	 box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	
 	 font-size:1.5vw;
 }
 
@@ -158,9 +169,18 @@ background-color: rgba(0,0,0,0.1);
 }
 
 .vk{
-	right:42vw;
+	right:16.3vw;
+	background:url("img/vk.png");
+		background-size:102% 102%;
+		
+		background-repeat:no-repeat;
+
 }
 
 .inst{
-	right:22vw;
+	right:11vw;
+		background:url("img/inst.png");
+		background-size:102% 102%;
+		
+		background-repeat:no-repeat;
 }
