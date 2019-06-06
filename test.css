@@ -39,7 +39,7 @@ position:absolute;
 }
 
 #text_head2{
-border:1px solid red;
+
 position:absolute;
 	top:3vw;
 	font-size:2vw;
@@ -47,8 +47,8 @@ position:absolute;
 
 .test_about{
 	position:absolute;
-	top:5vw;
-	border:1px solid red;
+	top:3vw;
+	
 	left:0px;
 }
 .def{
@@ -61,6 +61,7 @@ width: 50vw;
 	border-radius:1.5vw;
 	background:none;
 	 box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	 font-size:1.5vw;
 }
 
 .def:hover{
@@ -92,6 +93,30 @@ margin:auto;
 	top:21.1vw;
 }
 
-.sb{
 
+.ali4{
+position:absolute;
+
+left:0; right:0;
+margin:auto;
+	text-align:center;
+	top:13vw;
+
+}
+.ali5{
+position:absolute;
+left:0; right:0;
+margin:auto;
+	text-align:center;
+	top:19vw;
+}
+
+.def_y_n{
+width: 20vw;
+ font-size:1.9vw;
+}
+
+   #divtext_btn{
+top:19.5vw;
+left:12vw;
 }
