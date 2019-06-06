@@ -208,4 +208,19 @@ height: auto;
 	
 }
 
-
+  #arrow2{
+	position:absolute;
+	top:9vw;
+	left:2vw;
+	width:auto;
+	height:8.5vw;
+	z-index:22;
+}
+  #arrow3{
+	position:absolute;
+	top:41vw;
+	right:1.7vw;
+	width:auto;
+	height:8.5vw;
+	z-index:22;
+}

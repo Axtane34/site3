@@ -48,7 +48,7 @@ position:absolute;
 .test_about{
 	position:absolute;
 	top:3vw;
-	
+	line-height: 2.4vw;
 	left:0px;
 }
 .def{
@@ -116,7 +116,24 @@ width: 20vw;
  font-size:1.9vw;
 }
 
-   #divtext_btn{
-top:19.5vw;
+   .zap{
+   position:absolute;
+top:20.5vw;
 left:12vw;
+width: 25vw;
+	height: 4vw;
+	color:#202020;
+	border: 1px solid #202020;
+	border-radius:1.5vw;
+	background:none;
+	 box-shadow: 0 0 5px rgba(0,0,0,0.5);
+	 font-size:1.5vw;
 }
+
+.zap:hover{
+
+
+background-color: rgba(0,0,0,0.1);
+}
+
+
