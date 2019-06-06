@@ -19,7 +19,7 @@ margin-top:1.6vw;
 
 .down1{
 	position:absolute;
-
+	cursor:pointer;
 	font-family:StemExtraLight;
 	text-decoration: none;
 	color:white;
@@ -29,7 +29,7 @@ margin-top:1.6vw;
 .down2{
 	position:absolute;
 	margin-left:19vw;
-
+	cursor:pointer;
 	font-family:StemExtraLight;
 	text-decoration: none;
 color:white;
