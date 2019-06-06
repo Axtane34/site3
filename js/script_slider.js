@@ -6,7 +6,7 @@
 	// Запускаем плагин карусели
 	carousel.owlCarousel({
 	pagination: true,
-	singleItem: true,
+		video: true,
 	loop: true,
       slideSpeed : 1200,
 	  navSpeed: 1200,
