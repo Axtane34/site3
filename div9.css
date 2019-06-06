@@ -19,7 +19,7 @@ margin:auto;
 #div9{
 
 position:inherit;
-top:237.5vw;
+top:232.5vw;
 left:0;
 right:0;
 margin:auto;
@@ -50,7 +50,7 @@ margin:auto;
 	right:0;
 	margin:auto;
 	width:70vw;
-	height:33vw;
+	height:38vw;
 	text-align: center;
 	font-size: 300%;
 	border-right: 1px solid #777;
@@ -58,7 +58,7 @@ margin:auto;
 /* Блок с точками */
 .owl-pagination {
 	position:absolute;
-	top: 36vw;
+	top: 40.5vw;
 	width:100%;
 	
 	text-align: center; /* Выравниваем точки по-середине */
@@ -81,43 +81,43 @@ margin:auto;
 
 .pic_all{
 
-		background-size:100% 100%;
+		background-size:70% 100%;
+		background-position: center;
 		z-index:2;
 		background-repeat:no-repeat;
 }
 .pic1{
+	background-image:url(img/1.jpeg);
 
 }
 .pic2{
-	background-image:url(img/div9_1.png);
-		
+	background-image:url(img/2.jpeg);
+
 }
 .pic3{
-	background-image:url(img/div9.png);
+	background-image:url(img/3.jpeg);
 		
 }
 .pic4{
-	background-image:url(img/div9_1.png);
+	background-image:url(img/4.jpeg);
 	
 }
 .pic5{
-	background-image:url(img/div9.png);
+	background-image:url(img/5.jpeg);
+	background-size: 55% 100%;
 	
 }
 .pic6{
-	background-image:url(img/div9_1.png);
+	background-image:url(img/6.jpeg);
 	
 }
-.pic7{
-	background-image:url(img/div9.png);
-	
-}
+
 
 #js-prev{
 	
 	height:5vw;
 	position:absolute;
-	top:21vw;
+	top:20vw;
 	left:8vw;
 	z-index:100;
 
@@ -127,7 +127,7 @@ margin:auto;
 	
 		height:5vw;
 	position:absolute;
-	top:21vw;
+	top:20vw;
 	right: 8vw;
 	z-index:100;
 
