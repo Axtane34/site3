@@ -63,7 +63,7 @@ position:absolute;
 	text-align:left;
 }
 .def{
-
+cursor:pointer;
 
 width: 50vw;
 	height: 4vw;
@@ -139,6 +139,7 @@ width: 25vw;
 	background:none;
 	 box-shadow: 0 0 5px rgba(0,0,0,0.5);
 	 font-size:1.5vw;
+	 cursor:pointer;
 }
 
 .zap:hover{
@@ -150,14 +151,14 @@ background-color: rgba(0,0,0,0.1);
 
    .soc{
    position:absolute;
-top:20.5vw;
-right:42vw;
+   cursor:pointer;
+
 width: 4.2vw;
 	height: 4vw;
 	color:#202020;
 	
 	border-radius:1.1vw;
-	background:none;
+	
 	
 	 font-size:1.5vw;
 }
@@ -165,10 +166,12 @@ width: 4.2vw;
 .soc:hover{
 
 
-background-color: rgba(0,0,0,0.1);
+background-color: rgba(0,0,0,0.3);
 }
 
+
 .vk{
+top:20.5vw;
 	right:16.3vw;
 	background:url("img/vk.png");
 		background-size:102% 102%;
@@ -178,6 +181,7 @@ background-color: rgba(0,0,0,0.1);
 }
 
 .inst{
+top:20.5vw;
 	right:11vw;
 		background:url("img/inst.png");
 		background-size:102% 102%;
